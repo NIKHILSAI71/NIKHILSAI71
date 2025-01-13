@@ -89,7 +89,7 @@ const nikhil = {
 <!-- Animated Spotify -->
 <h3>🎵 Vibing to</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURUSERID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=9l8b6a7emg2v4n6vxb2gdgwj9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 <!-- Animated Trophies -->
