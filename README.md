@@ -68,7 +68,7 @@ I welcome professional opportunities for collaboration, consulting, or inquiries
 - **Email:** [nikhilsai384@gmail.com](mailto:nikhilsai384@gmail.com)
 
 <!-- Custom Profile Views -->
-<div style="text-align: right; margin-top: 20px;">
-  <span style="font-size: 2em; font-weight: bold;">1234</span><br />
-  <span style="font-size: 14px; color: #666;">Profile Views</span>
+<div style="position: absolute; top: 20px; right: 20px;">
+  <span style="font-size: 14px; color: #666;">Profile Views: </span>
+  <span style="font-size: 2em; font-weight: bold;">20</span>
 </div>
