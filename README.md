@@ -67,6 +67,8 @@ I welcome professional opportunities for collaboration, consulting, or inquiries
 - **LinkedIn:** [linkedin.com/in/nikhilsaipagidimarri/](https://www.linkedin.com/in/nikhilsaipagidimarri/)
 - **Email:** [nikhilsai384@gmail.com](mailto:nikhilsai384@gmail.com)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NIKHILSAI71&color=blueviolet" alt="Profile Views" />
+<!-- Custom Profile Views -->
+<div style="text-align: right; margin-top: 20px;">
+  <span style="font-size: 2em; font-weight: bold;">1234</span><br />
+  <span style="font-size: 14px; color: #666;">Profile Views</span>
 </div>
