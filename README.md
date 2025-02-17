@@ -1,8 +1,3 @@
-<!-- Animated header using Capsule Render -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome+to+Nikhil's+World&fontColor=fff" alt="Header Capsule">
-</div>
-
 <!-- Greeting & Introduction -->
 <div align="center">
   <h1 style="font-size: 3em; margin-top: 20px;">👋 Hi, I'm Nikhil Sai</h1>
