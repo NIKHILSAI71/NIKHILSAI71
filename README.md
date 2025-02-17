@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a dedicated Computer Science student with a passion for coding and developing innovative solutions. Currently, I'm honing my skills in full stack development, constantly learning and exploring cutting-edge technologies to build efficient and scalable applications.
+I am a dedicated Artificial Intelligence and Data Science student with a passion for transforming data into actionable insights. With a strong foundation in machine learning, deep learning, and data analytics, I am continuously exploring innovative techniques to solve real-world challenges.
 
 <details>
   <summary><strong>Professional Background</strong> (click to expand)</summary>
@@ -61,26 +61,6 @@ I am a dedicated Computer Science student with a passion for coding and developi
   - **Technologies:** Express.js, AWS, Docker
 </details>
 
-## Custom Statistics
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
-    <h3 style="margin: 0; font-size: 16px; color: #333;">Total Contributions</h3>
-    <p style="font-size: 28px; margin: 10px 0; color: #007bff;">8500</p>
-    <p style="margin: 0; font-size: 14px; color: #666;">Last year</p>
-  </div>
-  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
-    <h3 style="margin: 0; font-size: 16px; color: #333;">Top Repositories</h3>
-    <p style="font-size: 28px; margin: 10px 0; color: #28a745;">15</p>
-    <p style="margin: 0; font-size: 14px; color: #666;">Projects</p>
-  </div>
-  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
-    <h3 style="margin: 0; font-size: 16px; color: #333;">GitHub Stars</h3>
-    <p style="font-size: 28px; margin: 10px 0; color: #fd7e14;">120</p>
-    <p style="margin: 0; font-size: 14px; color: #666;">Accumulated stars</p>
-  </div>
-</div>
-
 ## My Learning Journey
 
 <details>
@@ -96,7 +76,7 @@ I am a dedicated Computer Science student with a passion for coding and developi
 
 I welcome professional opportunities for collaboration, consulting, or inquiries.
 
-- **LinkedIn:** [linkedin.com/in/nikhilssaipagidimarri/](https://www.linkedin.com/in/nikhilsaipagidimarri/)
+- **LinkedIn:** [linkedin.com/in/nikhilsaipagidimarri/](https://www.linkedin.com/in/nikhilsaipagidimarri/)
 - **Email:** [nikhilsai384@gmail.com](mailto:nikhilsai384@gmail.com)
 
 <div align="center">
