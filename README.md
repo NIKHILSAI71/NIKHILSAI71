@@ -68,7 +68,7 @@ I welcome professional opportunities for collaboration, consulting, or inquiries
 - **Email:** [nikhilsai384@gmail.com](mailto:nikhilsai384@gmail.com)
 
 <!-- Custom Profile Views -->
-<div style="position: absolute; top: 20px; right: 20px;">
+<div style="position: absolute; top: 20px; right: 20px; text-align: right;">
   <span style="font-size: 14px; color: #666;">Profile Views: </span>
-  <span style="font-size: 2em; font-weight: bold;">20</span>
+  <img src="https://komarev.com/ghpvc/?username=NIKHILSAI71&style=flat&color=007bff" alt="Profile Views" style="vertical-align: middle; height: 2em;" />
 </div>
