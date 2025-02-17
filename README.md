@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Full Stack Developer with extensive expertise in creating scalable and robust applications. I specialize in modern web frameworks and cloud technologies, and I am committed to delivering high-quality solutions to drive business success.
+I am a dedicated Computer Science student with a passion for coding and developing innovative solutions. Currently, I'm honing my skills in full stack development, constantly learning and exploring cutting-edge technologies to build efficient and scalable applications.
 
 <details>
   <summary><strong>Professional Background</strong> (click to expand)</summary>
@@ -15,9 +15,13 @@ I am a Full Stack Developer with extensive expertise in creating scalable and ro
 ## Technical Skills
 
 ### Programming Languages
+- **HTML**
+- **CSS**
 - **JavaScript**
 - **Python**
-- **HTML5 & CSS3**
+- **Java**
+- **C**
+- **C++**
 
 ### Frameworks & Libraries
 - **React**
@@ -77,22 +81,15 @@ I am a Full Stack Developer with extensive expertise in creating scalable and ro
   </div>
 </div>
 
-## Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIKHILSAI71&theme=onedark" alt="Achievements & Trophies" />
-</div>
-
-## Professional Timeline
+## My Learning Journey
 
 <details>
-  <summary><strong>View Professional Timeline</strong> (click to expand)</summary>
+  <summary><strong>View My Learning Journey</strong> (click to expand)</summary>
   
-  - **2015:** Initiated my journey in software development.
-  - **2017:** Developed my first full-stack web application.
-  - **2019:** Began contributing to impactful open source projects.
-  - **2021:** Expanded my expertise to cloud computing and DevOps practices.
-  - **2023:** Focusing on advanced JavaScript frameworks and innovative solutions.
+  - **2020:** Began my formal education in Computer Science.
+  - **2021:** Explored the fundamentals of web development with HTML, CSS, and JavaScript.
+  - **2022:** Expanded my skill set to include Python, Java, and C/C++.
+  - **2023:** Engaged in academic projects and hands-on coding challenges.
 </details>
 
 ## Contact
