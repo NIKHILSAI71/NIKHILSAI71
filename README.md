@@ -57,17 +57,24 @@ I am a Full Stack Developer with extensive expertise in creating scalable and ro
   - **Technologies:** Express.js, AWS, Docker
 </details>
 
-## GitHub Statistics
+## Custom Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKHILSAI71&show_icons=true&theme=radical" alt="GitHub Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHILSAI71&theme=radical" alt="GitHub Streak" />
-</div>
-
-## Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILSAI71&layout=compact&theme=radical" alt="Top Languages" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
+    <h3 style="margin: 0; font-size: 16px; color: #333;">Total Contributions</h3>
+    <p style="font-size: 28px; margin: 10px 0; color: #007bff;">8500</p>
+    <p style="margin: 0; font-size: 14px; color: #666;">Last year</p>
+  </div>
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
+    <h3 style="margin: 0; font-size: 16px; color: #333;">Top Repositories</h3>
+    <p style="font-size: 28px; margin: 10px 0; color: #28a745;">15</p>
+    <p style="margin: 0; font-size: 14px; color: #666;">Projects</p>
+  </div>
+  <div style="background: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; width: 250px; text-align: center;">
+    <h3 style="margin: 0; font-size: 16px; color: #333;">GitHub Stars</h3>
+    <p style="font-size: 28px; margin: 10px 0; color: #fd7e14;">120</p>
+    <p style="margin: 0; font-size: 14px; color: #666;">Accumulated stars</p>
+  </div>
 </div>
 
 ## Achievements & Certifications
