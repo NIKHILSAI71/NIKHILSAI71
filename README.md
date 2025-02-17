@@ -92,9 +92,8 @@ I am a Full Stack Developer with extensive expertise in creating scalable and ro
 
 I welcome professional opportunities for collaboration, consulting, or inquiries.
 
-- **LinkedIn:** [linkedin.com/in/nikhil-sai-556866245/](https://www.linkedin.com/in/nikhil-sai-556866245/)
-- **Email:** [nikhilsai.711@gmail.com](mailto:nikhilsai.711@gmail.com)
-- **Portfolio:** [Your Portfolio](https://example.com)
+- **LinkedIn:** [linkedin.com/in/nikhilssaipagidimarri/](https://www.linkedin.com/in/nikhilsaipagidimarri/)
+- **Email:** [nikhilsai384@gmail.com](mailto:nikhilsai384@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NIKHILSAI71&color=blueviolet" alt="Profile Views" />
