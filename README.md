@@ -14,62 +14,50 @@ I am a dedicated Artificial Intelligence and Data Science student with a passion
 
 ## Technical Skills
 
-### Programming Languages
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Python**
-- **Java**
-- **C**
-- **C++**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin-top: 20px;">
+  <div style="min-width: 250px;">
+    <h3 style="text-align: center;">Programming Languages</h3>
+    <ul style="list-style: none; padding: 0; text-align: center;">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C</li>
+      <li>C++</li>
+    </ul>
+  </div>
+  <div style="min-width: 250px;">
+    <h3 style="text-align: center;">Frameworks & Libraries</h3>
+    <ul style="list-style: none; padding: 0; text-align: center;">
+      <li>React</li>
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>Bootstrap</li>
+    </ul>
+  </div>
+  <div style="min-width: 250px;">
+    <h3 style="text-align: center;">Databases & Tools</h3>
+    <ul style="list-style: none; padding: 0; text-align: center;">
+      <li>MongoDB</li>
+      <li>SQL</li>
+      <li>AWS</li>
+      <li>Docker</li>
+      <li>Git</li>
+      <li>Linux</li>
+    </ul>
+  </div>
+</div>
 
-### Frameworks & Libraries
-- **React**
-- **Node.js**
-- **Express.js**
-- **Bootstrap**
-
-### Databases & Tools
-- **MongoDB**
-- **SQL**
-- **AWS**
-- **Docker**
-- **Git**
-- **Linux**
-
-<details>
+<details style="margin-top: 20px;">
   <summary><strong>Additional Tools & Technologies</strong> (click to expand)</summary>
-  
-  - TypeScript
-  - Redis
-  - GraphQL
-  - Webpack
-  - Babel
-</details>
-
-## Professional Projects
-
-<details>
-  <summary><strong>View Selected Projects</strong> (click to expand)</summary>
-  
-  ### [Project Alpha](https://github.com/NIKHILSAI71/project-alpha)
-  - **Description:** A scalable solution designed for real-time data analysis.
-  - **Technologies:** React, Node.js, MongoDB
-  
-  ### [Project Beta](https://github.com/NIKHILSAI71/project-beta)
-  - **Description:** An enterprise-level application focused on secure data management.
-  - **Technologies:** Express.js, AWS, Docker
-</details>
-
-## My Learning Journey
-
-<details>
-  <summary><strong>View My Learning Journey</strong> (click to expand)</summary>
-  
-  - **2020:** Began my formal education in Computer Science.
-  - **2021:** Explored the fundamentals of web development with HTML, CSS, and JavaScript.
-  - **2022:** Expanded my skill set to include Python, Java, and C/C++.
-  - **2023:** Engaged in academic projects and hands-on coding challenges.
+  <ul>
+    <li>TypeScript</li>
+    <li>Redis</li>
+    <li>GraphQL</li>
+    <li>Webpack</li>
+    <li>Babel</li>
+  </ul>
 </details>
 
 ## Contact
