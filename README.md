@@ -16,7 +16,7 @@ If you want to connect or collaborate, feel free to [reach out](mailto:nikhilsai
 
 - I love turning complex data into simple stories
 - Fueled by curiosity and coffee
-- Gaming is my go-to stress buster
+- Music is my go-to stress buster
 - Hobbies: learning new tech, building projects, and exploring AI
 
 ---
